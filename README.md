@@ -4,7 +4,7 @@ Today in India ,the Production in  Automobile Industry is growing higher and hig
 
 Our team here proposes the effective method as a application of Digital Image Processing to control the departure period of the vehicle at the junction to control vechicle congestion depending on the vehicle congestive density at a particular lane.
 
-The Solution is consist of the following steps :
+The Solution consist of the following steps :
 1. Capture Reference Image (An empty road of the lane whose VCD need to be determined)
 2. Capturing the Sequence of Images at lane .
 3. Apply various Pre processing operations. (Refer PPT )
