@@ -10,8 +10,8 @@ The Solution consist of the following steps :
 3. Apply various Pre processing operations. (Refer PPT )
 4. Apply Canny Edge Detection Method to determine Edge.
 5. Determine match value between Reference and Captured image.
-6. Estimate VCD.  
-7.Timing Allotment depending on VCD.
+6. Estimate VCD.
+7. Timing Allotment depending on VCD.
 
 I have Included the following Documents :
 1. PPT.
