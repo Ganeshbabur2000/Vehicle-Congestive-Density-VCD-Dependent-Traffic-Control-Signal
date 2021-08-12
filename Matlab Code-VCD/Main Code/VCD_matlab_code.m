@@ -1,5 +1,6 @@
 %%%%%%%%%%%%function files required to run %%%%%fourline.m%%%%% are
 %%%%%gauss,dgauss,d2gauss,pltr,detedge,matchh%%%%%
+%%The functions are defined in the separate folder%%%%
 clc;
 %% imread
 ref_image='EMPTY.jpeg';
